@@ -1,1 +1,1 @@
-## Invasão de Privacidade por Meio de Boroscopia
+## Invasão de Privacidade e Espionagem por Meio de Sondas Boroscopicas
