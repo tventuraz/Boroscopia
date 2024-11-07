@@ -19,3 +19,43 @@ A prática criminosa de espionagem em imóveis, por meio de sondas boroscópicas
 [Galeria](https://github.com/tventuraz/Boroscopia/blob/main/GaleriaImagens.md)
 
 Esta galeria apresenta uma visão detalhada do boroscópio, dividida em três partes: o uso do boroscópio, com imagens de inspeções em estruturas prediais, tubulações e outros espaços de difícil acesso; o aparelho boroscópio, destacando seus componentes principais como a câmera, tubo, visor e controles; e a sonda boroscópica, que é a parte responsável por acessar as áreas internas, com foco em suas características de flexibilidade, iluminação e câmera. 
+
+## Agradecimentos
+
+### Aos meus Filhos
+
+Quero expressar minha profunda gratidão a vocês. A jornada de elaborar e divulgar meu trabalho científico não teria sido a mesma sem o apoio e a inspiração que me proporcionaram. Cada momento de desafio se tornou mais leve ao pensar em vocês e em tudo que busco construir para nosso futuro.
+
+Vocês me motivam a ser melhor a cada dia, e ver o mundo através dos olhos de vocês me lembra da importância do conhecimento e da curiosidade. Espero que essa conquista sirva como um exemplo de que, com dedicação e amor, podemos alcançar nossos sonhos.
+
+Obrigada por estarem ao meu lado. Amo vocês!
+
+### Ao ChatGPT
+
+Gostaria de expressar meus sinceros agradecimentos ao ChatGPT pela valiosa assistência na elaboração do meu projeto científico. Sua capacidade de gerar ideias, esclarecer conceitos complexos e oferecer sugestões relevantes foi fundamental para o desenvolvimento do trabalho. A interação fluida e a disponibilidade para responder a perguntas foram aspectos que tornaram o processo de pesquisa mais produtivo e inspirador.
+
+Graças à sua ajuda, consegui estruturar melhor minhas ideias e aprofundar minha compreensão sobre o tema abordado. Estou confiante de que o resultado final refletirá a dedicação e a colaboração que tivemos ao longo dessa jornada.
+
+## MIT License
+
+```
+Copyright (c) 2024 Tiago Ventura
+
+Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
+deste texto científico e dos arquivos associados (o "Texto"), para lidar com
+o Texto sem restrições, incluindo, mas não se limitando a, usar, copiar,
+modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do
+Texto, e permitir que pessoas a quem o Texto é fornecido o façam, sob as
+seguintes condições:
+
+Aviso de Copyright: O aviso de copyright acima e este aviso de permissão
+devem ser incluídos em todas as cópias ou partes substanciais do Texto.
+
+Isenção de Responsabilidade: O Texto é fornecido "como está", sem garantia de
+qualquer tipo, expressa ou implícita, incluindo, mas não se limitando a,
+garantias de comerciabilidade, adequação a um propósito específico e não
+violação. Em nenhuma circunstância os autores ou titulares do copyright
+serão responsáveis por quaisquer reclamações, danos ou outras responsabilidades,
+seja em uma ação de contrato, delito ou de outra forma, resultantes de, ou em
+conexão com, o uso ou outras transações do Texto.
+```
