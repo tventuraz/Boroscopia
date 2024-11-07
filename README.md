@@ -2,7 +2,7 @@
 
 ### 📌 1) Boroscópio Digital: Características Técnicas, Aplicações e Questões Éticas de Privacidade
 
-[paper](https://github.com/tventuraz/Boroscopia/blob/main/BoroscopioDetalhado.md)
+[Paper](https://github.com/tventuraz/Boroscopia/blob/main/BoroscopioDetalhado.md)
 
 O boroscópio digital é uma ferramenta vital para inspeções visuais em locais de difícil acesso, com um vasto leque de aplicações que vão desde setores industriais até áreas de segurança pública, medicina e investigações policiais. Ao longo dos anos, a evolução dessa tecnologia tem permitido o desenvolvimento de dispositivos cada vez mais sofisticados, com câmeras de alta definição, sensores avançados e conectividade sem fio. Essas inovações permitiram uma maior versatilidade no uso de boroscópios digitais, especialmente em operações de espionagem e contra-espionagem, onde a capacidade de operar discretamente e monitorar ambientes de difícil acesso sem ser detectado tem se mostrado crucial.
 
@@ -11,6 +11,6 @@ Entretanto, como qualquer tecnologia de monitoramento, o uso de boroscópios dig
 
 ### 📌 Galeria de Imagens
 
-[paper](https://github.com/tventuraz/Boroscopia/blob/main/GaleriaImagens.md)
+[Galeria](https://github.com/tventuraz/Boroscopia/blob/main/GaleriaImagens.md)
 
-Galeria de Imagens
+Esta galeria apresenta uma visão detalhada do boroscópio, dividida em três partes: o uso do boroscópio, com imagens de inspeções em estruturas prediais, tubulações e outros espaços de difícil acesso; o aparelho boroscópio, destacando seus componentes principais como a câmera, tubo, visor e controles; e a sonda boroscópica, que é a parte responsável por acessar as áreas internas, com foco em suas características de flexibilidade, iluminação e câmera. 
