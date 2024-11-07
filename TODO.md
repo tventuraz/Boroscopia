@@ -1,6 +1,27 @@
-## BOROSCOPIA
+# BOROSCOPIA
 
-### Infraestrutura
+## Papers
+
+### 1) Incentivo a Promoção a Pratica de Invasão de Privacidade em Sites Notórios
+
+   - Sites que permitem a transmissão de stream de vídeo ao vivo;
+   - Recompensam os usuários com tokens resgatáveis na moeda local (Lavagem de Dinheiro);
+   - Oferecem conteúdo relacionados a "Home Spy Cams" ou "Camêras Caseiras";
+   - O termo "Camera Caseira" faz referência a espionagem de lares com famílias;
+   - Invasão de privacidade como direito humano
+   - Promovem a invasão de privacidade;
+   - Promovem a instalação de cameras escondidas (hidden cams);
+   - Promovem pratica de Boroscopia em lares (cameras caseiras);
+   - Crianças também podem ser vítimas dentro de seus próprios lares (pedofilia);
+
+#### 1.2) Métodos de Resgate de Tokens
+
+  - Paypal
+  - Payoneer
+  - TransferWise
+
+
+## Infraestrutura
 
 - Tubos de boroscopia;
 - Frestas portais;
@@ -14,7 +35,7 @@
 - Bolhas na pintura (?);
 - Paineis Cegos;
 
-### Sondas Boroscópicas
+## Sondas Boroscópicas
 
 - Profundidade de Campo infinita;
 - Integracao com Smartphone (Wi-Fi/BT);
@@ -25,14 +46,14 @@
 - Manuais;
 - Diametro da sonda;
  
-### Atividade
+## Atividade
 
 - Reverberar audio na estrutura;
 - Transmissão de sons em tubos;
 - Induzir comportamentos por meio de sons/ruídos oriundos dos apartmentos adjacentes;
 - Audio no duto de ventilação;
 
-### Modus operandi
+## Modus operandi
 
 - Venda do material videografado;
 - Divulgacao do material videografado;
@@ -51,7 +72,7 @@
 - Empresas de serviços;
 - Voyeurs
 
-### Detecção
+## Detecção
 
 - Detectores de RF
 - Termografos
