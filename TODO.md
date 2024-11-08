@@ -78,3 +78,11 @@
 - Termografos
 - Ultrassonografos
 - Exame na pintura, Frestas e paineis cego
+
+## Condomínios
+
+- Padrão Checkers;
+- Ocupação Intercalada de Imóveis;
+- Gestão Fraudulenta;
+- Síndico Ausente;
+- Inexistência de Assembleias;
