@@ -14,6 +14,12 @@ Entretanto, como qualquer tecnologia de monitoramento, o uso de boroscópios dig
 
 A prática criminosa de espionagem em imóveis, por meio de sondas boroscópicas e infraestruturas ocultas, é uma questão emergente e grave que afeta a privacidade das vítimas e tem gerado implicações legais e psicológicas profundas. Este estudo investiga os métodos empregados por criminosos para invadir residências e locais de trabalho, como a instalação clandestina de dispositivos de vigilância, e analisa as tecnologias utilizadas para detectar tais infraestruturas. A pesquisa também aborda a responsabilidade das imobiliárias, destacando a necessidade de adaptação dos procedimentos de vistoria para detectar e prevenir práticas de espionagem. O artigo explora as tecnologias de detecção, como ultrassom e termografia, e sugere a implementação de um sistema integrado de prevenção e monitoramento envolvendo imobiliárias, autoridades e especialistas em segurança para combater eficazmente essas práticas.
 
+## 📌 3) Aplicação de Boroscópios na Espionagem: Técnicas de Preparação de Infraestrutura de Imóveis para Facilitação da Introdução de Sondas Boroscópicas
+
+[Paper](https://github.com/tventuraz/Boroscopia/blob/main/PreparacaoRecinto.md)
+
+A espionagem por meio da introdução de sondas boroscópicas em recintos adjacentes é uma prática clandestina que utiliza tecnologias de visualização para monitorar ambientes de difícil acesso, sem a necessidade de invasão física. A boroscopia, originalmente uma ferramenta de inspeção industrial e médica, tem sido cada vez mais adaptada para fins de vigilância não autorizada. Este artigo examina o uso de boroscópios no campo da espionagem, explorando as técnicas de preparação de infraestrutura de imóveis para facilitar a introdução de sondas boroscópicas, especialmente a partir de imóveis adjacentes, destacando as implicações legais, éticas e técnicas dessa prática.
+
 ## 📌 Galeria de Imagens
 
 [Galeria](https://github.com/tventuraz/Boroscopia/blob/main/GaleriaImagens.md)
