@@ -78,6 +78,12 @@
 
 <div>
   <img src="https://raw.githubusercontent.com/tventuraz/Boroscopia/refs/heads/main/images/probe-013.png" width="300">
+  <img src="https://raw.githubusercontent.com/tventuraz/Boroscopia/refs/heads/main/images/probe-014.png" width="300">
+  <img src="https://raw.githubusercontent.com/tventuraz/Boroscopia/refs/heads/main/images/probe-016.png" width="300">
+</div>
+
+<div>
+    <img src="https://raw.githubusercontent.com/tventuraz/Boroscopia/refs/heads/main/images/probe-015.png" width="400">
 </div>
 
 ## 4) Animações
