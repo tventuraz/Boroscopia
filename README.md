@@ -32,6 +32,12 @@ A crescente utilização de boroscópios como dispositivos de espionagem e invas
 
 A espionagem por meio do uso de sondas boroscópicas tem se expandido de ambientes residenciais para acomodações temporárias, como Airbnbs e hotéis, representando uma crescente ameaça à privacidade e à segurança de indivíduos, incluindo autoridades políticas e agentes de segurança. O uso desses dispositivos de visualização não invasiva, originalmente desenvolvidos para inspeções industriais e médicas, em ambientes privados e temporários torna-se cada vez mais difícil de detectar, especialmente devido à dinâmica rotativa e descentralizada desses estabelecimentos. Este estudo examina as técnicas de preparação de infraestrutura utilizadas para a instalação furtiva de dispositivos de vigilância, os desafios para identificar equipamentos de filmagem e a dificuldade em identificar os responsáveis, devido à rotatividade dos hóspedes. Além disso, analisa as implicações legais, éticas e políticas dessa prática e propõe estratégias para mitigar os riscos, com ênfase na proteção de figuras públicas e informações sensíveis em acomodações temporárias.
 
+## 6) Espionagem Residencial: Violação da Privacidade e Dignidade Humana, com Enfoque no Impacto sobre Crianças e Adolescentes e suas Implicações Legais
+
+[Paper](https://github.com/tventuraz/Boroscopia/blob/main/BoroscopiaPedofilia.md)
+
+A espionagem residencial, quando realizada por meio de sondas boroscópicas e infraestruturas ocultas, representa uma grave violação da privacidade, dignidade humana e segurança das vítimas. Quando as vítimas são crianças e adolescentes, os danos psicológicos e legais se tornam ainda mais profundos, podendo a prática ser enquadrada como crime de pedofilia, caso o material obtido seja utilizado de maneira abusiva ou sexualizada. Este estudo investiga as tecnologias utilizadas para perpetrar essa prática criminosa, analisa suas implicações psicológicas e legais, com ênfase no impacto sobre crianças e adolescentes, e propõe medidas de prevenção. A pesquisa também sugere a adoção de novos protocolos de vistoria por parte das imobiliárias, bem como a colaboração de autoridades e especialistas em segurança para combater eficazmente a espionagem residencial. Tecnologias como ultrassom e termografia são discutidas como ferramentas essenciais na detecção de infraestruturas de espionagem.
+
 ## 📌 Galeria de Imagens
 
 [Galeria](https://github.com/tventuraz/Boroscopia/blob/main/GaleriaImagens.md)
