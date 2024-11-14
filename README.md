@@ -26,13 +26,13 @@ A espionagem por meio da introdução de sondas boroscópicas em recintos adjace
 
 A crescente utilização de boroscópios como dispositivos de espionagem e invasão de privacidade em centros urbanos no Brasil tem gerado sérias implicações para a segurança pessoal, a privacidade dos cidadãos e para o sistema jurídico. Originalmente concebidos para inspeção industrial, esses dispositivos estão sendo cada vez mais usados para captura clandestina de imagens e vídeos em ambientes privados. A comercialização indiscriminada de boroscópios modificados para fins de vigilância e espionagem em plataformas de e-commerce e a falta de uma regulação eficiente por parte das autoridades brasileiras, incluindo as Forças Armadas, têm permitido a proliferação de facções criminosas especializadas na compra, venda e distribuição de material videográfico ilegal. Este artigo examina os impactos dessa prática, com foco na falta de controle governamental e no papel das Forças Armadas na regulação de equipamentos de vigilância no Brasil, e propõe soluções para mitigar os riscos associados à invasão de privacidade em larga escala.
 
-## 5) Aplicação de Boroscópios na Espionagem: Técnicas de Preparação de Infraestrutura em Imóveis e Acomodações Temporárias para Espionagem de Autoridades, com Ênfase em Airbnbs, Hotéis
+## 📌 5) Aplicação de Boroscópios na Espionagem: Técnicas de Preparação de Infraestrutura em Imóveis e Acomodações Temporárias para Espionagem de Autoridades, com Ênfase em Airbnbs, Hotéis
 
 [Paper](https://github.com/tventuraz/Boroscopia/blob/main/AutoridadesAirBnBHoteis.md)
 
 A espionagem por meio do uso de sondas boroscópicas tem se expandido de ambientes residenciais para acomodações temporárias, como Airbnbs e hotéis, representando uma crescente ameaça à privacidade e à segurança de indivíduos, incluindo autoridades políticas e agentes de segurança. O uso desses dispositivos de visualização não invasiva, originalmente desenvolvidos para inspeções industriais e médicas, em ambientes privados e temporários torna-se cada vez mais difícil de detectar, especialmente devido à dinâmica rotativa e descentralizada desses estabelecimentos. Este estudo examina as técnicas de preparação de infraestrutura utilizadas para a instalação furtiva de dispositivos de vigilância, os desafios para identificar equipamentos de filmagem e a dificuldade em identificar os responsáveis, devido à rotatividade dos hóspedes. Além disso, analisa as implicações legais, éticas e políticas dessa prática e propõe estratégias para mitigar os riscos, com ênfase na proteção de figuras públicas e informações sensíveis em acomodações temporárias.
 
-## 6) Espionagem Residencial: Violação da Privacidade e Dignidade Humana, com Enfoque no Impacto sobre Crianças e Adolescentes e suas Implicações Legais
+## 📌 6) Espionagem Residencial: Violação da Privacidade e Dignidade Humana, com Enfoque no Impacto sobre Crianças e Adolescentes e suas Implicações Legais
 
 [Paper](https://github.com/tventuraz/Boroscopia/blob/main/BoroscopiaPedofilia.md)
 
