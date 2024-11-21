@@ -38,6 +38,12 @@ A espionagem por meio do uso de sondas boroscópicas tem se expandido de ambient
 
 A espionagem residencial, quando realizada por meio de sondas boroscópicas e infraestruturas ocultas, representa uma grave violação da privacidade, dignidade humana e segurança das vítimas. Quando as vítimas são crianças e adolescentes, os danos psicológicos e legais se tornam ainda mais profundos, podendo a prática ser enquadrada como crime de pedofilia, caso o material obtido seja utilizado de maneira abusiva ou sexualizada. Este estudo investiga as tecnologias utilizadas para perpetrar essa prática criminosa, analisa suas implicações psicológicas e legais, com ênfase no impacto sobre crianças e adolescentes, e propõe medidas de prevenção. A pesquisa também sugere a adoção de novos protocolos de vistoria por parte das imobiliárias, bem como a colaboração de autoridades e especialistas em segurança para combater eficazmente a espionagem residencial. Tecnologias como ultrassom e termografia são discutidas como ferramentas essenciais na detecção de infraestruturas de espionagem.
 
+## 📌 7) Responsabilização dos Fabricantes de Boroscópios pela Negligência e Falta de Controle na Produção de Equipamentos Facilitadores da Invasão de Privacidade
+
+[Paper](https://github.com/tventuraz/Boroscopia/blob/main/BoroscopioFabricantes.md)
+
+Este artigo explora a responsabilidade dos fabricantes de boroscópios na distribuição de dispositivos com características técnicas que, embora projetadas para fins industriais e médicos legítimos, podem ser facilmente utilizados para invadir a privacidade de indivíduos em recintos privados, como apartamentos e escritórios. Embora os boroscópios sejam projetados para operar em espaços confinados, a presença de profundidade de campo infinita e capacidades de gravação de vídeo os torna uma ferramenta ideal para a espionagem clandestina. Muitos fabricantes de boroscópios não alertam sobre os riscos de uso indevido nem implementam controles adequados de distribuição, o que facilita o uso ilegal desses dispositivos. Este artigo propõe que os fabricantes sejam responsabilizados pela falta de regulamentação interna, sugerindo a adoção de restrições técnicas, aviso explícito nos manuais de operação e um controle rigoroso sobre a distribuição para prevenir a violação de privacidade.
+
 ## 📌 Galeria de Imagens
 
 [Galeria](https://github.com/tventuraz/Boroscopia/blob/main/GaleriaImagens.md)
